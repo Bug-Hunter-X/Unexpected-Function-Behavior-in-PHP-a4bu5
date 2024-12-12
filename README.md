@@ -1,0 +1,1 @@
+This repository contains examples of unexpected function behavior in PHP. The bug.php file contains a simple example of how unexpected behavior in one function can lead to unexpected behavior in other functions that depend on it. The bugSolution.php file contains a solution to the problem.
